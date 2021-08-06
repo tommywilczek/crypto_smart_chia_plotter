@@ -1,0 +1,127 @@
+
+2021-08-06 12:54:37.230137 | ------ smart_plot has been started for Linux machine ------
+2021-08-06 12:54:37.230189 | searching for a drive with enough space to add a plot...
+2021-08-06 12:54:37.230942 | GB available in /mnt/hdd/00/: 26.809312
+2021-08-06 12:54:37.230991 | /mnt/hdd/00/ is full
+2021-08-06 12:54:37.231015 | moving to next drive
+2021-08-06 12:54:37.231602 | GB available in /mnt/hdd/01/: 106.339284
+2021-08-06 12:54:37.231649 | /mnt/hdd/01/ is full
+2021-08-06 12:54:37.231670 | moving to next drive
+2021-08-06 12:54:37.232244 | GB available in /mnt/hdd/02/: 28.27224
+2021-08-06 12:54:37.232290 | /mnt/hdd/02/ is full
+2021-08-06 12:54:37.232310 | moving to next drive
+2021-08-06 12:54:37.232873 | GB available in /mnt/hdd/03/: 45.643704
+2021-08-06 12:54:37.232917 | /mnt/hdd/03/ is full
+2021-08-06 12:54:37.232937 | moving to next drive
+2021-08-06 12:54:37.233509 | GB available in /mnt/hdd/04/: 46.2499
+2021-08-06 12:54:37.233553 | /mnt/hdd/04/ is full
+2021-08-06 12:54:37.233572 | moving to next drive
+2021-08-06 12:54:37.234144 | GB available in /mnt/hdd/05/: 1746.762716
+2021-08-06 12:54:37.234191 | /mnt/hdd/05/ has enough space to add a plot
+2021-08-06 12:54:39.319167 | cleared SSD
+2021-08-06 12:54:39.319278 | beginning to plot on /mnt/hdd/05/Pool/...
+2021-08-06 13:04:13.203243 | PLOT COMPLETE on /mnt/hdd/05/Pool/ - Time taken:9.56 min
+2021-08-06 13:04:13.203540 | searching for a drive with enough space to add a plot...
+2021-08-06 13:04:13.205780 | GB available in /mnt/hdd/00/: 26.809312
+2021-08-06 13:04:13.205866 | /mnt/hdd/00/ is full
+2021-08-06 13:04:13.205904 | moving to next drive
+2021-08-06 13:04:13.206644 | GB available in /mnt/hdd/01/: 106.339284
+2021-08-06 13:04:13.206702 | /mnt/hdd/01/ is full
+2021-08-06 13:04:13.206724 | moving to next drive
+2021-08-06 13:04:13.207345 | GB available in /mnt/hdd/02/: 28.27224
+2021-08-06 13:04:13.207392 | /mnt/hdd/02/ is full
+2021-08-06 13:04:13.207412 | moving to next drive
+2021-08-06 13:04:13.207996 | GB available in /mnt/hdd/03/: 45.643704
+2021-08-06 13:04:13.208043 | /mnt/hdd/03/ is full
+2021-08-06 13:04:13.208063 | moving to next drive
+2021-08-06 13:04:13.208641 | GB available in /mnt/hdd/04/: 46.2499
+2021-08-06 13:04:13.208689 | /mnt/hdd/04/ is full
+2021-08-06 13:04:13.208710 | moving to next drive
+2021-08-06 13:04:13.209282 | GB available in /mnt/hdd/05/: 1746.762716
+2021-08-06 13:04:13.209329 | /mnt/hdd/05/ has enough space to add a plot
+2021-08-06 13:04:19.723320 | cleared SSD
+2021-08-06 13:04:19.723444 | beginning to plot on /mnt/hdd/05/Pool/...
+2021-08-06 13:05:08.795731 | ------ smart_plot has been started for Linux machine ------
+2021-08-06 13:05:08.795906 | searching for a drive with enough space to add a plot...
+2021-08-06 13:05:08.796667 | GB available in /mnt/hdd/00/: 26.809312
+2021-08-06 13:05:08.796722 | /mnt/hdd/00/ is full
+2021-08-06 13:05:08.796745 | moving to next drive
+2021-08-06 13:05:08.797328 | GB available in /mnt/hdd/01/: 106.339284
+2021-08-06 13:05:08.797377 | /mnt/hdd/01/ is full
+2021-08-06 13:05:08.797398 | moving to next drive
+2021-08-06 13:05:08.797980 | GB available in /mnt/hdd/02/: 28.27224
+2021-08-06 13:05:08.798030 | /mnt/hdd/02/ is full
+2021-08-06 13:05:08.798050 | moving to next drive
+2021-08-06 13:05:08.798628 | GB available in /mnt/hdd/03/: 45.643704
+2021-08-06 13:05:08.798677 | /mnt/hdd/03/ is full
+2021-08-06 13:05:08.798697 | moving to next drive
+2021-08-06 13:05:08.799252 | GB available in /mnt/hdd/04/: 46.2499
+2021-08-06 13:05:08.799299 | /mnt/hdd/04/ is full
+2021-08-06 13:05:08.799319 | moving to next drive
+2021-08-06 13:05:08.799880 | GB available in /mnt/hdd/05/: 1746.762716
+2021-08-06 13:05:08.799926 | /mnt/hdd/05/ has enough space to add a plot
+2021-08-06 13:05:09.157419 | cleared SSD
+2021-08-06 13:05:09.157525 | beginning to plot on /mnt/hdd/05/Pool/...
+2021-08-06 13:54:27.877593 | PLOT COMPLETE on /mnt/hdd/05/Pool/ - Time taken:49.31 min
+2021-08-06 13:54:27.877897 | searching for a drive with enough space to add a plot...
+2021-08-06 13:54:27.890572 | GB available in /mnt/hdd/00/: 26.809312
+2021-08-06 13:54:27.890635 | /mnt/hdd/00/ is full
+2021-08-06 13:54:27.890663 | moving to next drive
+2021-08-06 13:54:27.891350 | GB available in /mnt/hdd/01/: 106.339284
+2021-08-06 13:54:27.891399 | /mnt/hdd/01/ is full
+2021-08-06 13:54:27.891420 | moving to next drive
+2021-08-06 13:54:27.892007 | GB available in /mnt/hdd/02/: 28.27224
+2021-08-06 13:54:27.892053 | /mnt/hdd/02/ is full
+2021-08-06 13:54:27.892073 | moving to next drive
+2021-08-06 13:54:27.892647 | GB available in /mnt/hdd/03/: 45.643704
+2021-08-06 13:54:27.892693 | /mnt/hdd/03/ is full
+2021-08-06 13:54:27.892712 | moving to next drive
+2021-08-06 13:54:27.893280 | GB available in /mnt/hdd/04/: 46.2499
+2021-08-06 13:54:27.893324 | /mnt/hdd/04/ is full
+2021-08-06 13:54:27.893344 | moving to next drive
+2021-08-06 13:54:27.893905 | GB available in /mnt/hdd/05/: 1640.477736
+2021-08-06 13:54:27.893950 | /mnt/hdd/05/ has enough space to add a plot
+2021-08-06 13:54:27.896853 | cleared SSD
+2021-08-06 13:54:27.896882 | beginning to plot on /mnt/hdd/05/Pool/...
+2021-08-06 14:44:19.311344 | PLOT COMPLETE on /mnt/hdd/05/Pool/ - Time taken:49.86 min
+2021-08-06 14:44:19.311655 | searching for a drive with enough space to add a plot...
+2021-08-06 14:44:19.324404 | GB available in /mnt/hdd/00/: 26.809312
+2021-08-06 14:44:19.324476 | /mnt/hdd/00/ is full
+2021-08-06 14:44:19.324508 | moving to next drive
+2021-08-06 14:44:19.325275 | GB available in /mnt/hdd/01/: 106.339284
+2021-08-06 14:44:19.325328 | /mnt/hdd/01/ is full
+2021-08-06 14:44:19.325349 | moving to next drive
+2021-08-06 14:44:19.326038 | GB available in /mnt/hdd/02/: 28.27224
+2021-08-06 14:44:19.326091 | /mnt/hdd/02/ is full
+2021-08-06 14:44:19.326112 | moving to next drive
+2021-08-06 14:44:19.326790 | GB available in /mnt/hdd/03/: 45.643704
+2021-08-06 14:44:19.326840 | /mnt/hdd/03/ is full
+2021-08-06 14:44:19.326859 | moving to next drive
+2021-08-06 14:44:19.327469 | GB available in /mnt/hdd/04/: 46.2499
+2021-08-06 14:44:19.327518 | /mnt/hdd/04/ is full
+2021-08-06 14:44:19.327537 | moving to next drive
+2021-08-06 14:44:19.328130 | GB available in /mnt/hdd/05/: 1534.19268
+2021-08-06 14:44:19.328177 | /mnt/hdd/05/ has enough space to add a plot
+2021-08-06 14:44:19.332756 | cleared SSD
+2021-08-06 14:44:19.332785 | beginning to plot on /mnt/hdd/05/Pool/...
+2021-08-06 15:34:21.691954 | PLOT COMPLETE on /mnt/hdd/05/Pool/ - Time taken:50.04 min
+2021-08-06 15:34:21.692270 | searching for a drive with enough space to add a plot...
+2021-08-06 15:34:21.697017 | GB available in /mnt/hdd/00/: 26.809312
+2021-08-06 15:34:21.697088 | /mnt/hdd/00/ is full
+2021-08-06 15:34:21.697113 | moving to next drive
+2021-08-06 15:34:21.697877 | GB available in /mnt/hdd/01/: 106.339284
+2021-08-06 15:34:21.697931 | /mnt/hdd/01/ is full
+2021-08-06 15:34:21.697953 | moving to next drive
+2021-08-06 15:34:21.698562 | GB available in /mnt/hdd/02/: 28.27224
+2021-08-06 15:34:21.698613 | /mnt/hdd/02/ is full
+2021-08-06 15:34:21.698634 | moving to next drive
+2021-08-06 15:34:21.699275 | GB available in /mnt/hdd/03/: 45.643704
+2021-08-06 15:34:21.699321 | /mnt/hdd/03/ is full
+2021-08-06 15:34:21.699341 | moving to next drive
+2021-08-06 15:34:21.699960 | GB available in /mnt/hdd/04/: 46.2499
+2021-08-06 15:34:21.700007 | /mnt/hdd/04/ is full
+2021-08-06 15:34:21.700026 | moving to next drive
+2021-08-06 15:34:21.700652 | GB available in /mnt/hdd/05/: 1427.929164
+2021-08-06 15:34:21.700697 | /mnt/hdd/05/ has enough space to add a plot
+2021-08-06 15:34:21.703800 | cleared SSD
+2021-08-06 15:34:21.703830 | beginning to plot on /mnt/hdd/05/Pool/...
