@@ -1,8 +1,9 @@
 import datetime
+from local_constants import LOG_LOCATION
 
 class Logger:
     def __init__(self):
-        self.log_file = "/home/overnight-oats/Documents/smart_plotter/log.txt"
+        self.log_file = LOG_LOCATION
 
     def log(self, log: str):
         msg = str(datetime.datetime.now()) + " | " + str(log)

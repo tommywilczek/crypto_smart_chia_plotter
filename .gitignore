@@ -1,2 +1,4 @@
 __pycache__/
 log.txt
+local_constants.py
+test.py
