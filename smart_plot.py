@@ -1,12 +1,11 @@
+from os_service import OsService
 from logger import Logger
 from local_constants import OPERATING_SYSTEM, DRIVE_LIST, PLOT_MODE
-from linux_service import LinuxService
-from windows_service import WindowsService
 
 logger = Logger()
 
 def main():
-    os_service = create_os_service(OPERATING_SYSTEM, logger)
+    os_service = OsService(logger)
 
     logger.log("------ smart_plot has been started for " + OPERATING_SYSTEM + " machine ------")
     try:
@@ -34,17 +33,6 @@ def replace_og_plots_with_pool_plots(os_service):
         drive = os_service.find_drive_with_og_plots(DRIVE_LIST)
         if drive == "":
             break
-        os_service.plot_to_drive(drive + "Pool/")
-
-
-def create_os_service (os, logger):
-    if(os == "Linux"):
-        return LinuxService(logger)
-    elif(os == "Windows"):
-        return WindowsService(logger)
-    else:
-        e = 'Incorrect OS in constants file.'
-        logger.log("EXCEPTION: " + e)
-        raise ValueError()
+        os_service.replace_og_with_pool_plot(drive)
 
 main()
