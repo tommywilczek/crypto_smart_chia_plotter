@@ -40,7 +40,7 @@ class OsService():
         return file_count
 
     def get_available_space_on_drive_in_gib(self, drive: str):
-        total, used, free = shutil.disk_usage("D:/")
+        total, used, free = shutil.disk_usage(drive)
         gib_available = free // (2**30)
         self.logger.log("GiB available in " + drive + ": " + str(gib_available))
         return gib_available
