@@ -47,11 +47,11 @@ class OsService():
 
     def remove_one_file_from_dir(self, dir: str):
         first_file = [f for f in listdir(dir) if isfile(join(dir, f))][0]
-        os.remove(dir + "/" + first_file)
+        os.remove(dir + first_file)
 
     def replace_og_with_pool_plot(self, drive: str):
         self.remove_one_file_from_dir(drive + "OG/")
-        self.logger.log("removed one OG plot from " + dir)
+        self.logger.log("removed one OG plot from " + drive)
         self.plot_to_drive(drive + "Pool/")
 
     def plot_to_drive(self, drive: str):
