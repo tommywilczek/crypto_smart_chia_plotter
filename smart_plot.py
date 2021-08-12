@@ -7,7 +7,7 @@ logger = Logger()
 def main():
     os_service = OsService(logger)
 
-    logger.log("------ smart_plot has been started for " + OPERATING_SYSTEM + " machine ------")
+    logger.log("------ smart_plot has been started for " + OPERATING_SYSTEM + " machine to " + PLOT_MODE + " plots ------")
     try:
         if(PLOT_MODE == "Add"):
             plot_pool_plots_until_drives_are_full(os_service)
@@ -19,7 +19,7 @@ def main():
             raise ValueError()
     except Exception as e:
         logger.log("EXCEPTION: " + str(e))
-    logger.log("------  smart_plot has completed for " + OPERATING_SYSTEM + " machine   ------")
+    logger.log("------  smart_plot has completed for " + OPERATING_SYSTEM + " machine to " + PLOT_MODE + " plots   ------")
 
 def plot_pool_plots_until_drives_are_full(os_service):
     while True:
